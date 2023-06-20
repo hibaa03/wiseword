@@ -23,7 +23,7 @@ export default function About(props) {
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div className="accordion-body" style={myStyle}>
-      Textutils is a free character counter tool that provides instant character count & word count statistics for a given text. Textutils reports the number of words and characters. Thus it is suitable for writing text with word
+      WiseWord is a free character counter tool that provides instant character count & word count statistics for a given text. WiseWord reports the number of words and characters. Thus it is suitable for writing text with word
     </div>
     </div>
 
@@ -36,7 +36,7 @@ export default function About(props) {
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div className="accordion-body" style={myStyle}>
-      Textutils is a free character counter tool that provides instant character count & word count statistics for a given text. Textutils reports the number of words and characters. Thus it is suitable for writing text with word/ character
+      WiseWord is a free character counter tool that provides instant character count & word count statistics for a given text. WiseWord reports the number of words and characters. Thus it is suitable for writing text with word/ character
       </div>
     </div>
   </div>
